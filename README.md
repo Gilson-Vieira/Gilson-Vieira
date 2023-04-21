@@ -1,5 +1,6 @@
 ## Olá Eu sou o Gilson Vieira 👋
-- 🔭 Hoje trabalho com Java
+- 🔭 Hoje trabalho com HTML5 E CSS3
+- Javascript
 - 🌱 Estou aprendendo Paython
 - 👯 Estou aberto para troca de experiência
 - 📫 Meu contacto de E-mail: gilson-domingos@hotmail.com
